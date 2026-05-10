@@ -1,0 +1,401 @@
+App Usage Time (min/day),Screen On Time (hours/day),Battery Drain (mAh/day),Data Usage (MB/day),Number of Apps Installed,Operating System,Gender,Device Model,Age
+162.6,4.23,2250.0,1654.0,57,Android,Male,OnePlus 11,30
+420.0,9.85,3145.0,3919.0,87,iOS,Female,iPhone 14,42
+92.9,2.92,1313.0,1111.2,37,iOS,Male,iPhone 15,62
+404.8,9.95,3207.0,3852.0,103,iOS,Female,iPhone 14,36
+258.1,6.56,2614.0,2616.2,101,Android,Male,Xiaomi 13,63
+420.0,10.66,3791.0,4002.8,99,Android,Female,Samsung Galaxy S23,53
+118.2,4.07,1543.0,1556.6,37,Android,Male,Samsung Galaxy S24,62
+123.0,3.12,1242.0,1353.0,45,iOS,Male,iPhone 14,25
+157.6,4.5,2300.0,1701.3,49,iOS,Female,iPhone 15,46
+120.1,4.28,1789.0,1624.5,76,iOS,Male,iPhone 14,49
+217.8,5.52,2382.0,2141.5,52,Android,Male,Samsung Galaxy S24,61
+41.8,1.59,826.0,667.0,27,iOS,Female,iPhone 15,35
+16.5,0.92,1060.0,440.8,35,iOS,Female,iPhone 15,23
+228.0,5.59,2365.0,2277.0,91,Android,Female,Samsung Galaxy S24,35
+401.9,8.89,3008.0,3695.4,107,Android,Female,Samsung Galaxy S24,36
+183.8,4.4,2317.0,1899.0,31,Android,Male,Samsung Galaxy S23,39
+211.8,5.64,2695.0,2191.0,69,Android,Male,Samsung Galaxy S24,54
+155.6,5.06,2319.0,1807.5,84,Android,Male,Xiaomi 13,49
+203.4,5.0,2536.0,1968.2,75,Android,Female,Samsung Galaxy S24,58
+66.0,1.96,1926.0,814.1,44,Android,Female,Xiaomi 13,20
+115.3,4.1,1902.0,1614.9,31,iOS,Female,iPhone 14,45
+337.7,7.73,3057.0,3064.1,78,Android,Female,Google Pixel 8,27
+117.0,2.78,1772.0,1204.8,51,Android,Male,Samsung Galaxy S24,52
+346.2,8.19,3196.0,3321.6,75,Android,Male,Google Pixel 8,46
+200.7,5.07,2288.0,2036.0,83,Android,Male,Xiaomi 13,32
+196.8,4.34,1845.0,1937.2,53,iOS,Female,iPhone 14,50
+135.3,3.87,2077.0,1546.9,54,Android,Male,OnePlus 11,24
+223.2,6.14,2332.0,2430.9,40,Android,Female,Google Pixel 8,29
+291.0,6.77,2477.0,2754.2,82,iOS,Male,iPhone 14,47
+71.4,2.56,1541.0,1031.9,19,Android,Male,Google Pixel 8,38
+64.5,2.55,1535.0,929.1,8,iOS,Male,iPhone 14,48
+15.0,1.09,1040.0,508.4,38,Android,Female,Samsung Galaxy S23,41
+176.3,4.76,2497.0,1842.7,93,Android,Female,Google Pixel 8,37
+202.1,5.48,2452.0,2086.5,90,iOS,Male,iPhone 14,54
+420.0,9.82,3612.0,3925.6,130,iOS,Male,iPhone 14,21
+171.1,5.24,1903.0,1981.0,55,iOS,Female,iPhone 14,45
+151.3,4.84,1899.0,1900.0,73,Android,Male,Samsung Galaxy S24,61
+187.8,5.47,2599.0,2168.6,88,Android,Female,Google Pixel 8,37
+209.9,5.87,2347.0,2271.0,74,iOS,Female,iPhone 14,41
+132.2,3.15,1958.0,1316.7,33,Android,Male,Google Pixel 8,49
+94.4,3.44,1663.0,1410.9,37,Android,Male,Samsung Galaxy S24,58
+201.5,5.53,2703.0,2171.3,100,Android,Female,OnePlus 11,53
+160.8,3.8,2221.0,1585.7,59,Android,Male,Samsung Galaxy S23,51
+155.2,4.27,1666.0,1720.9,8,iOS,Male,iPhone 15,53
+257.6,6.59,2680.0,2517.0,55,Android,Female,Xiaomi 13,19
+153.0,4.91,2071.0,1819.4,51,iOS,Female,iPhone 14,32
+49.1,2.21,1406.0,781.9,54,Android,Female,Xiaomi 13,51
+83.7,2.25,1674.0,960.0,39,Android,Female,Samsung Galaxy S24,53
+115.8,4.26,2465.0,1540.6,69,Android,Male,Samsung Galaxy S23,23
+190.9,5.17,2296.0,2071.9,58,Android,Male,Xiaomi 13,56
+210.8,5.32,1717.0,2134.4,36,iOS,Female,iPhone 14,59
+157.9,4.13,1674.0,1650.5,51,iOS,Female,iPhone 15,29
+52.2,1.37,782.0,629.2,43,iOS,Male,iPhone 15,20
+68.0,2.25,1658.0,910.6,45,iOS,Female,iPhone 14,62
+244.7,6.56,2555.0,2522.3,56,iOS,Male,iPhone 15,35
+104.1,3.07,1435.0,1215.8,42,iOS,Male,iPhone 14,57
+170.4,4.89,2114.0,1855.3,111,Android,Male,Google Pixel 8,38
+126.0,3.33,1585.0,1368.5,31,Android,Male,Xiaomi 13,32
+108.1,3.26,1723.0,1269.2,61,Android,Male,Xiaomi 13,50
+91.7,3.11,1638.0,1186.7,8,Android,Male,Samsung Galaxy S24,52
+206.6,5.58,2501.0,2131.6,86,Android,Male,Google Pixel 8,43
+132.8,3.0,2042.0,1456.4,38,Android,Female,Google Pixel 8,25
+294.7,7.09,2521.0,2748.2,97,iOS,Female,iPhone 15,53
+64.0,2.96,1266.0,1007.6,16,Android,Female,Xiaomi 13,65
+88.3,2.52,1403.0,1027.1,50,Android,Female,Samsung Galaxy S23,47
+191.1,5.16,2249.0,2010.8,51,Android,Male,Xiaomi 13,40
+195.9,5.22,2124.0,2035.0,55,Android,Male,Xiaomi 13,59
+243.2,6.86,2514.0,2668.1,86,iOS,Female,iPhone 14,61
+109.2,3.93,1842.0,1583.0,41,Android,Male,Samsung Galaxy S23,31
+15.0,1.49,1368.0,515.1,35,iOS,Female,iPhone 15,31
+122.8,3.21,1486.0,1340.7,49,iOS,Male,iPhone 15,19
+228.3,5.98,2457.0,2324.9,76,Android,Female,Samsung Galaxy S24,54
+165.3,4.84,2401.0,1793.9,69,Android,Male,Samsung Galaxy S23,22
+238.0,5.72,2151.0,2347.8,71,iOS,Female,iPhone 14,55
+364.9,8.44,3043.0,3359.2,87,iOS,Female,iPhone 14,62
+119.1,4.19,1850.0,1460.0,42,iOS,Female,iPhone 14,58
+126.4,3.6,1824.0,1413.4,74,iOS,Male,iPhone 14,64
+65.1,2.96,1447.0,997.3,41,Android,Female,Google Pixel 8,31
+88.0,3.18,1989.0,1248.1,29,Android,Female,Xiaomi 13,56
+15.0,1.31,1831.0,680.1,36,Android,Female,Samsung Galaxy S24,42
+98.9,3.18,1623.0,1240.2,55,iOS,Female,iPhone 15,37
+299.2,6.75,2399.0,2777.8,100,iOS,Female,iPhone 15,19
+222.4,5.94,2453.0,2287.4,56,Android,Male,Xiaomi 13,56
+93.3,3.49,2019.0,1340.3,33,Android,Female,Samsung Galaxy S23,23
+420.0,10.35,3512.0,4042.8,105,Android,Female,Samsung Galaxy S23,34
+129.5,3.72,1884.0,1456.8,47,Android,Female,Xiaomi 13,42
+318.7,8.73,3134.0,3229.3,105,iOS,Male,iPhone 15,45
+365.6,8.91,3412.0,3497.9,111,iOS,Male,iPhone 14,19
+243.4,5.88,2527.0,2321.5,85,iOS,Female,iPhone 14,52
+97.2,3.01,2038.0,1274.6,71,Android,Female,OnePlus 11,54
+99.2,3.48,1819.0,1426.1,59,Android,Male,OnePlus 11,22
+189.9,4.21,2010.0,1902.7,64,iOS,Female,iPhone 15,18
+54.9,2.29,1095.0,823.7,16,iOS,Male,iPhone 15,57
+103.4,3.59,2004.0,1262.2,35,Android,Male,Xiaomi 13,29
+64.1,2.24,1586.0,944.5,34,iOS,Male,iPhone 14,53
+224.4,6.39,2788.0,2338.4,89,Android,Male,Xiaomi 13,62
+345.7,8.69,3170.0,3346.3,101,Android,Female,Google Pixel 8,40
+248.8,7.39,2770.0,2778.4,68,Android,Male,OnePlus 11,64
+311.2,7.31,3261.0,2898.9,80,Android,Female,Google Pixel 8,48
+89.2,3.14,1679.0,1159.2,43,Android,Female,Xiaomi 13,28
+173.3,4.16,2385.0,1752.9,79,Android,Female,Samsung Galaxy S24,27
+167.3,3.75,1981.0,1592.5,90,iOS,Female,iPhone 15,20
+175.3,3.89,1947.0,1668.3,60,Android,Male,OnePlus 11,31
+113.3,3.53,1579.0,1357.0,49,Android,Female,OnePlus 11,33
+254.6,6.49,2431.0,2509.5,59,iOS,Female,iPhone 14,27
+393.3,9.39,3618.0,3705.1,146,Android,Male,OnePlus 11,46
+215.8,4.75,2603.0,2357.9,47,Android,Female,Xiaomi 13,27
+94.4,2.57,1353.0,1101.7,67,iOS,Female,iPhone 15,29
+117.6,3.39,2329.0,1316.3,44,Android,Female,Google Pixel 8,47
+87.4,3.08,1801.0,1264.0,33,Android,Female,Xiaomi 13,58
+27.2,1.39,1321.0,530.3,11,Android,Female,Samsung Galaxy S24,18
+120.4,3.71,1962.0,1372.0,95,Android,Male,Google Pixel 8,22
+134.3,3.59,1803.0,1434.9,59,iOS,Female,iPhone 14,37
+274.1,7.62,2835.0,2801.7,86,iOS,Female,iPhone 14,25
+109.6,2.9,1813.0,1199.8,65,iOS,Male,iPhone 15,60
+67.7,2.12,1067.0,895.5,28,iOS,Male,iPhone 15,29
+183.5,4.77,2336.0,1908.4,65,iOS,Male,iPhone 15,18
+178.8,4.98,2353.0,1982.7,65,Android,Female,Samsung Galaxy S24,37
+245.8,5.74,2410.0,2354.0,70,iOS,Female,iPhone 15,45
+148.8,4.28,2114.0,1626.9,79,Android,Male,Xiaomi 13,60
+33.0,1.6,962.0,714.0,28,iOS,Female,iPhone 15,54
+242.1,5.96,2250.0,2340.3,50,iOS,Male,iPhone 14,64
+97.9,3.1,1782.0,1156.0,41,Android,Female,Samsung Galaxy S23,54
+318.3,7.35,2664.0,3049.5,100,Android,Female,Google Pixel 8,29
+176.8,4.19,2221.0,1838.0,48,Android,Female,OnePlus 11,54
+181.8,4.99,2426.0,1895.4,50,Android,Male,Samsung Galaxy S24,61
+420.0,9.44,3105.0,3782.0,108,iOS,Male,iPhone 15,45
+252.6,5.54,2142.0,2308.9,103,iOS,Male,iPhone 14,64
+208.4,5.78,2366.0,2205.2,62,Android,Male,Google Pixel 8,32
+163.7,4.87,2347.0,1967.3,87,Android,Female,Samsung Galaxy S24,23
+114.0,3.1,1694.0,1323.2,39,Android,Female,Google Pixel 8,61
+118.4,3.11,1818.0,1371.0,57,Android,Female,Samsung Galaxy S24,37
+75.2,2.91,1723.0,1123.1,34,Android,Female,Samsung Galaxy S24,31
+420.0,9.52,3275.0,3814.4,131,Android,Female,Samsung Galaxy S23,19
+219.4,5.01,1780.0,2173.4,53,iOS,Female,iPhone 14,26
+355.1,8.93,2768.0,3461.2,116,Android,Female,Google Pixel 8,54
+69.6,2.34,1802.0,1052.5,42,Android,Female,Xiaomi 13,37
+132.2,4.34,1824.0,1565.5,43,iOS,Male,iPhone 14,43
+219.9,4.82,2500.0,2012.5,70,Android,Male,Samsung Galaxy S23,46
+84.3,2.17,1231.0,1050.5,71,iOS,Male,iPhone 14,18
+118.0,3.4,1674.0,1372.2,53,iOS,Female,iPhone 15,52
+401.0,9.81,3549.0,3766.6,101,Android,Female,Xiaomi 13,23
+90.1,3.31,1589.0,1200.4,23,Android,Male,Samsung Galaxy S24,54
+15.0,1.21,996.0,772.0,37,Android,Female,Google Pixel 8,22
+52.6,2.03,1884.0,785.6,40,Android,Female,Samsung Galaxy S23,50
+15.0,1.1,1604.0,442.7,41,Android,Male,Google Pixel 8,31
+304.2,8.36,2735.0,3087.9,66,iOS,Male,iPhone 15,29
+109.3,2.71,1744.0,1271.8,28,Android,Female,OnePlus 11,59
+420.0,10.2,3661.0,4161.5,138,Android,Female,Xiaomi 13,37
+409.2,9.36,3282.0,3775.1,121,Android,Female,Samsung Galaxy S23,41
+420.0,10.28,3909.0,3905.3,127,iOS,Female,iPhone 15,60
+295.9,6.84,2393.0,2949.4,73,Android,Female,Samsung Galaxy S23,51
+230.3,6.2,2449.0,2362.0,58,Android,Female,Samsung Galaxy S24,42
+105.7,3.18,1881.0,1223.9,66,Android,Female,OnePlus 11,46
+161.7,5.14,2504.0,1823.4,79,iOS,Female,iPhone 14,56
+296.8,7.35,3035.0,2921.8,71,Android,Male,Samsung Galaxy S23,48
+295.9,7.65,2309.0,2931.7,67,iOS,Male,iPhone 14,64
+104.1,2.89,1530.0,1217.4,46,iOS,Male,iPhone 14,60
+121.2,3.34,1807.0,1448.9,37,Android,Female,Google Pixel 8,40
+159.3,4.35,1795.0,1678.1,45,iOS,Female,iPhone 14,61
+189.3,4.28,2194.0,1932.9,44,Android,Female,Samsung Galaxy S24,55
+71.2,1.88,938.0,846.4,32,iOS,Male,iPhone 14,37
+420.0,10.46,3364.0,4188.7,97,iOS,Male,iPhone 14,40
+167.4,4.57,2194.0,1820.5,42,Android,Male,Xiaomi 13,62
+61.1,2.03,1668.0,814.2,44,Android,Male,Samsung Galaxy S24,33
+414.7,9.59,3348.0,3742.3,115,iOS,Female,iPhone 15,59
+391.6,9.25,3404.0,3687.4,120,Android,Male,Xiaomi 13,25
+197.5,5.35,2217.0,2044.5,39,Android,Male,OnePlus 11,38
+75.4,2.66,1812.0,1020.4,42,Android,Female,Xiaomi 13,18
+64.4,1.43,1348.0,803.5,77,iOS,Male,iPhone 14,25
+237.4,6.81,2269.0,2571.2,71,iOS,Male,iPhone 14,46
+56.4,2.64,1416.0,1026.3,52,Android,Female,Xiaomi 13,49
+136.6,2.91,1512.0,1305.1,70,Android,Male,Samsung Galaxy S23,55
+420.0,10.53,4120.0,4102.4,133,Android,Female,Samsung Galaxy S24,22
+108.0,3.65,1882.0,1328.8,52,iOS,Female,iPhone 14,64
+194.0,5.07,2312.0,1931.0,78,Android,Female,Xiaomi 13,39
+241.4,5.68,2239.0,2275.3,91,iOS,Male,iPhone 15,64
+374.5,9.5,3373.0,3616.2,119,Android,Female,Samsung Galaxy S24,51
+139.0,3.9,1942.0,1499.7,35,iOS,Male,iPhone 15,18
+121.9,3.88,2256.0,1452.6,21,Android,Male,Samsung Galaxy S24,43
+141.3,5.06,1982.0,1774.2,28,Android,Male,Google Pixel 8,60
+209.5,5.52,2645.0,2138.4,66,Android,Female,Xiaomi 13,27
+382.9,8.96,3202.0,3525.0,120,iOS,Male,iPhone 15,47
+125.6,3.56,1571.0,1371.7,33,iOS,Male,iPhone 15,35
+15.0,0.77,1581.0,418.1,45,Android,Female,Google Pixel 8,34
+256.4,6.79,2490.0,2524.3,72,iOS,Male,iPhone 15,43
+145.9,3.8,1803.0,1522.0,48,iOS,Male,iPhone 15,25
+234.7,5.9,2520.0,2292.3,62,Android,Male,Google Pixel 8,64
+33.6,1.11,820.0,549.7,8,Android,Male,Google Pixel 8,57
+117.3,3.47,1951.0,1353.1,55,Android,Male,Samsung Galaxy S23,29
+294.9,7.52,2947.0,2952.5,121,Android,Male,Xiaomi 13,44
+69.9,1.13,829.0,852.6,39,iOS,Female,iPhone 15,25
+203.9,5.55,1964.0,2085.7,37,iOS,Male,iPhone 14,42
+129.1,3.77,1709.0,1649.1,67,iOS,Male,iPhone 14,63
+129.7,3.31,1961.0,1357.9,24,Android,Female,Xiaomi 13,21
+64.7,3.29,1438.0,1101.5,17,Android,Male,Samsung Galaxy S24,50
+93.1,3.28,1411.0,1248.9,41,iOS,Female,iPhone 14,18
+179.6,4.41,2041.0,2066.7,67,iOS,Male,iPhone 15,36
+173.9,5.15,1723.0,1896.7,45,iOS,Male,iPhone 14,48
+115.2,4.05,1611.0,1400.2,45,iOS,Male,iPhone 14,33
+26.8,1.6,866.0,733.0,44,iOS,Male,iPhone 14,31
+224.4,6.05,2805.0,2276.0,90,Android,Male,Xiaomi 13,65
+285.3,7.38,2918.0,2805.6,110,Android,Male,Samsung Galaxy S24,22
+211.2,4.66,2174.0,1957.6,106,iOS,Male,iPhone 15,58
+420.0,10.11,3697.0,3903.0,132,iOS,Male,iPhone 14,43
+142.8,3.98,1834.0,1536.2,53,Android,Male,Samsung Galaxy S24,45
+365.0,9.62,3463.0,3625.5,121,Android,Male,Samsung Galaxy S24,19
+97.1,3.24,1398.0,1233.8,55,iOS,Male,iPhone 14,23
+46.8,1.85,1242.0,724.7,44,Android,Male,Xiaomi 13,26
+161.2,4.3,1921.0,1775.8,64,Android,Female,Samsung Galaxy S24,50
+417.4,10.59,3559.0,4008.5,100,Android,Male,OnePlus 11,58
+152.0,4.06,1675.0,1568.0,40,iOS,Female,iPhone 14,42
+45.3,1.48,1231.0,740.3,33,iOS,Female,iPhone 14,65
+323.6,7.95,2883.0,3106.1,99,Android,Male,Xiaomi 13,30
+98.9,3.4,1667.0,1370.3,35,iOS,Female,iPhone 15,26
+174.5,4.86,2371.0,1877.1,71,Android,Female,Samsung Galaxy S24,30
+95.1,3.06,1799.0,1157.5,83,Android,Male,Xiaomi 13,48
+170.8,4.79,1709.0,1831.6,31,iOS,Male,iPhone 14,58
+23.7,1.07,1122.0,559.4,41,iOS,Female,iPhone 15,28
+420.0,9.95,3354.0,3860.4,116,iOS,Female,iPhone 14,21
+316.5,7.61,2869.0,2985.1,103,iOS,Male,iPhone 14,51
+171.2,4.58,2486.0,1794.9,55,Android,Male,Samsung Galaxy S24,55
+282.4,7.77,2974.0,2837.1,85,Android,Male,OnePlus 11,63
+86.0,2.36,1467.0,990.7,46,Android,Male,Xiaomi 13,21
+259.6,6.2,2408.0,2503.1,77,Android,Female,Google Pixel 8,55
+107.5,2.75,1425.0,1273.6,21,Android,Male,Google Pixel 8,36
+119.7,2.92,1227.0,1291.4,47,iOS,Male,iPhone 15,23
+89.4,2.68,1775.0,1092.8,19,Android,Female,Samsung Galaxy S23,51
+206.6,5.22,1701.0,2045.6,82,iOS,Male,iPhone 15,35
+171.6,5.52,2142.0,2049.6,29,iOS,Male,iPhone 14,30
+354.7,8.48,2905.0,3356.2,122,iOS,Female,iPhone 15,58
+76.6,3.07,1648.0,1077.7,50,Android,Female,Xiaomi 13,40
+220.7,6.24,2416.0,2384.5,81,Android,Male,Xiaomi 13,36
+326.9,7.9,3228.0,3135.0,58,Android,Female,OnePlus 11,62
+144.8,5.08,2212.0,1744.1,51,Android,Male,OnePlus 11,28
+94.4,3.15,1832.0,1196.9,67,iOS,Male,iPhone 15,18
+197.6,5.83,2706.0,2126.7,59,Android,Female,Samsung Galaxy S24,41
+376.0,9.85,3517.0,3968.0,88,Android,Male,OnePlus 11,24
+375.9,9.41,2929.0,3624.9,96,iOS,Male,iPhone 15,42
+151.7,4.63,2100.0,1735.1,57,Android,Male,Samsung Galaxy S23,38
+309.7,8.04,2646.0,3078.1,78,iOS,Male,iPhone 15,32
+149.2,3.72,1757.0,1653.0,80,iOS,Male,iPhone 15,18
+301.1,7.6,2739.0,2929.1,90,iOS,Male,iPhone 15,29
+233.8,6.58,2589.0,2421.1,66,Android,Male,Samsung Galaxy S23,24
+114.2,4.15,2009.0,1524.3,27,Android,Male,Samsung Galaxy S24,32
+99.1,2.66,1640.0,1125.5,56,iOS,Female,iPhone 14,38
+294.8,7.52,2939.0,2850.4,98,Android,Female,Samsung Galaxy S24,36
+369.7,9.0,3171.0,3448.4,92,iOS,Female,iPhone 15,46
+178.0,4.66,1731.0,1969.3,24,iOS,Female,iPhone 14,42
+170.6,4.86,2348.0,1859.8,70,iOS,Male,iPhone 15,50
+90.4,3.04,1607.0,1138.7,42,Android,Male,OnePlus 11,49
+322.2,8.13,3389.0,3112.9,102,Android,Female,Google Pixel 8,52
+174.3,5.28,1942.0,1995.4,99,iOS,Female,iPhone 15,61
+137.3,4.17,1956.0,1566.1,55,Android,Female,OnePlus 11,55
+258.8,6.78,2626.0,2546.3,73,Android,Male,Xiaomi 13,43
+38.5,2.64,1573.0,875.7,13,Android,Male,OnePlus 11,28
+91.5,3.46,1812.0,1329.8,40,iOS,Male,iPhone 14,52
+76.4,2.59,1183.0,1098.7,45,iOS,Male,iPhone 14,25
+186.5,4.36,1905.0,1809.4,67,Android,Female,Samsung Galaxy S23,63
+141.5,3.47,1731.0,1561.6,87,Android,Female,Google Pixel 8,31
+191.2,5.58,2529.0,2085.6,76,iOS,Male,iPhone 15,27
+308.8,7.31,2786.0,3003.6,91,iOS,Female,iPhone 15,19
+251.2,5.87,2262.0,2431.1,68,Android,Female,Samsung Galaxy S24,63
+420.0,9.85,3502.0,3821.8,122,Android,Male,Samsung Galaxy S24,26
+317.2,7.62,3002.0,3153.8,78,iOS,Male,iPhone 15,20
+175.5,5.19,2054.0,1937.1,67,iOS,Male,iPhone 15,38
+96.4,3.0,1512.0,1217.7,55,iOS,Male,iPhone 15,43
+154.9,3.74,1585.0,1533.0,55,iOS,Male,iPhone 14,25
+213.9,5.67,2185.0,2221.6,61,Android,Male,Google Pixel 8,65
+146.4,4.27,2187.0,1712.6,18,Android,Male,Xiaomi 13,19
+213.9,5.44,2678.0,2322.7,93,iOS,Male,iPhone 14,23
+216.3,6.08,2163.0,2381.7,80,iOS,Female,iPhone 14,45
+70.0,2.3,1712.0,971.5,48,iOS,Male,iPhone 14,46
+267.6,7.19,2409.0,2656.4,56,iOS,Female,iPhone 15,43
+201.4,5.65,2647.0,2139.9,94,Android,Male,OnePlus 11,42
+420.0,10.46,3983.0,3957.2,109,Android,Female,Samsung Galaxy S24,29
+146.2,3.67,1702.0,1541.3,52,iOS,Male,iPhone 14,22
+94.2,3.07,1401.0,1142.0,26,iOS,Male,iPhone 15,51
+133.5,3.71,1789.0,1469.5,22,iOS,Female,iPhone 15,65
+93.6,2.22,1220.0,1008.3,66,iOS,Female,iPhone 14,54
+346.0,8.91,3434.0,3347.2,124,iOS,Female,iPhone 15,32
+410.7,9.62,3543.0,3766.2,112,Android,Male,OnePlus 11,61
+175.7,4.54,1992.0,1811.4,51,Android,Male,OnePlus 11,53
+158.7,3.84,1845.0,1630.1,53,Android,Female,Xiaomi 13,32
+164.4,4.73,1856.0,1734.7,55,Android,Female,Xiaomi 13,60
+360.7,8.05,2929.0,3216.3,83,Android,Female,Xiaomi 13,65
+73.5,2.7,1572.0,1010.8,36,Android,Female,Google Pixel 8,40
+170.4,5.17,2065.0,1897.7,65,Android,Male,OnePlus 11,23
+206.7,5.59,2491.0,2155.7,89,Android,Female,Google Pixel 8,63
+233.6,6.41,2532.0,2385.3,77,iOS,Male,iPhone 14,61
+15.0,1.62,1225.0,569.9,8,Android,Male,Xiaomi 13,60
+234.1,5.67,2654.0,2291.5,83,Android,Male,Google Pixel 8,62
+192.1,5.82,2054.0,2092.9,63,iOS,Male,iPhone 14,38
+347.3,8.38,3516.0,3349.2,126,Android,Male,Samsung Galaxy S23,40
+420.0,10.16,3780.0,3938.0,143,Android,Male,Samsung Galaxy S24,60
+343.6,8.21,3598.0,3265.9,127,Android,Female,OnePlus 11,33
+191.2,5.38,2652.0,2042.0,57,iOS,Male,iPhone 15,64
+81.1,2.34,1657.0,1193.0,79,Android,Female,Xiaomi 13,32
+132.4,3.89,1711.0,1541.2,60,iOS,Male,iPhone 15,42
+154.8,3.8,2050.0,1569.6,88,Android,Male,Samsung Galaxy S23,53
+420.0,10.56,3831.0,4052.9,108,Android,Female,Samsung Galaxy S23,28
+118.9,3.87,2219.0,1388.1,46,Android,Male,OnePlus 11,32
+76.0,2.49,1493.0,1006.5,47,Android,Male,Samsung Galaxy S24,21
+94.3,2.81,1601.0,1158.3,48,iOS,Male,iPhone 14,38
+106.4,3.58,1740.0,1340.2,71,iOS,Male,iPhone 14,30
+61.9,1.84,1380.0,805.2,34,iOS,Female,iPhone 15,39
+175.0,4.86,2642.0,1833.6,84,Android,Male,Samsung Galaxy S23,36
+156.0,4.75,2183.0,1736.2,73,Android,Female,Samsung Galaxy S23,51
+15.0,0.91,700.0,447.4,24,iOS,Male,iPhone 15,31
+140.4,4.06,2229.0,1530.7,68,Android,Female,Xiaomi 13,21
+38.3,1.78,1220.0,851.9,25,Android,Female,Google Pixel 8,65
+159.2,4.26,2218.0,1623.9,102,Android,Female,Samsung Galaxy S24,63
+157.2,4.18,2053.0,1655.5,12,Android,Male,OnePlus 11,44
+70.8,3.05,1637.0,1084.2,53,iOS,Male,iPhone 15,46
+291.7,7.1,2503.0,2829.1,57,iOS,Male,iPhone 15,64
+192.5,4.22,1781.0,1800.0,63,iOS,Female,iPhone 15,45
+121.8,3.77,1302.0,1514.7,50,Android,Female,Xiaomi 13,52
+44.3,1.24,1574.0,583.7,62,Android,Female,OnePlus 11,25
+214.1,5.97,2406.0,2224.3,60,Android,Male,Samsung Galaxy S24,33
+197.2,5.74,2874.0,2167.3,92,Android,Female,Google Pixel 8,59
+88.3,3.03,1751.0,1222.0,23,Android,Female,OnePlus 11,53
+197.8,5.78,2225.0,2092.5,93,iOS,Male,iPhone 14,47
+416.8,11.03,3856.0,4366.0,108,iOS,Male,iPhone 15,35
+256.3,6.87,3010.0,2565.2,83,Android,Female,OnePlus 11,19
+15.0,1.28,1005.0,461.4,22,iOS,Female,iPhone 15,30
+127.8,4.35,2221.0,1596.1,76,iOS,Female,iPhone 14,21
+103.1,4.01,1913.0,1379.9,67,Android,Male,Samsung Galaxy S23,43
+152.1,4.94,2080.0,1762.3,66,iOS,Female,iPhone 14,42
+184.3,4.78,2279.0,1935.5,45,Android,Male,OnePlus 11,47
+250.8,5.86,2656.0,2342.3,67,Android,Male,Xiaomi 13,28
+153.2,4.07,2099.0,1577.4,40,Android,Male,Xiaomi 13,24
+174.7,4.96,1815.0,1863.7,23,iOS,Female,iPhone 15,48
+275.1,6.92,3131.0,2766.7,108,Android,Female,Google Pixel 8,61
+200.6,5.12,2267.0,2010.3,63,Android,Female,Xiaomi 13,27
+79.1,2.94,1575.0,1222.4,36,Android,Male,Samsung Galaxy S23,56
+127.2,2.94,1774.0,1394.8,80,Android,Female,Xiaomi 13,30
+167.7,4.7,2385.0,1826.5,53,iOS,Male,iPhone 14,48
+62.6,2.68,1214.0,992.5,24,iOS,Female,iPhone 15,24
+201.3,5.63,2694.0,2143.8,65,Android,Male,Google Pixel 8,59
+84.4,3.12,1423.0,1159.3,23,Android,Male,Xiaomi 13,59
+265.6,7.51,3028.0,2741.0,90,Android,Male,Samsung Galaxy S23,53
+148.9,4.2,2099.0,1623.5,51,Android,Male,Samsung Galaxy S23,37
+67.4,1.99,1818.0,831.0,31,Android,Female,OnePlus 11,21
+299.8,8.08,2865.0,2950.5,80,Android,Male,Samsung Galaxy S23,24
+378.3,9.8,3314.0,3751.8,106,Android,Male,Google Pixel 8,18
+160.8,4.59,1941.0,1768.1,62,iOS,Female,iPhone 15,61
+149.7,4.17,2189.0,1634.6,49,iOS,Male,iPhone 14,62
+293.7,7.26,2668.0,2861.0,83,Android,Female,Samsung Galaxy S23,59
+373.8,8.45,2661.0,3380.1,106,Android,Female,OnePlus 11,64
+36.2,2.1,1276.0,712.5,30,iOS,Female,iPhone 14,30
+91.0,3.44,2039.0,1225.4,46,Android,Male,OnePlus 11,39
+106.2,2.55,1209.0,1247.6,36,iOS,Female,iPhone 14,38
+142.2,4.32,2130.0,1584.5,74,iOS,Female,iPhone 14,39
+225.2,6.09,2322.0,2249.9,76,Android,Male,Samsung Galaxy S24,45
+309.9,7.31,2847.0,2897.2,84,Android,Male,Samsung Galaxy S24,26
+388.0,8.79,3331.0,3617.7,117,iOS,Female,iPhone 14,43
+68.3,2.47,1328.0,907.0,39,Android,Female,Samsung Galaxy S23,26
+104.7,2.92,1454.0,1164.2,17,iOS,Female,iPhone 14,32
+104.3,3.91,2036.0,1398.1,54,iOS,Female,iPhone 14,27
+31.5,1.92,1503.0,977.6,14,Android,Female,Samsung Galaxy S23,41
+210.9,5.8,2377.0,2156.5,88,Android,Male,Samsung Galaxy S23,59
+229.9,6.24,2700.0,2320.4,71,iOS,Male,iPhone 14,25
+145.9,4.76,2375.0,1741.8,71,Android,Male,Samsung Galaxy S23,41
+129.5,4.03,1556.0,1602.8,42,Android,Female,Xiaomi 13,33
+160.7,4.71,2176.0,1754.6,62,iOS,Male,iPhone 14,43
+133.0,3.29,1811.0,1347.1,76,Android,Female,Samsung Galaxy S24,44
+416.5,11.34,3711.0,4150.2,112,iOS,Female,iPhone 14,54
+257.7,5.97,2559.0,2481.0,71,iOS,Female,iPhone 15,21
+102.0,3.05,1709.0,1368.1,59,Android,Male,Samsung Galaxy S24,41
+151.2,3.38,1591.0,1538.2,70,Android,Female,Samsung Galaxy S24,36
+247.0,6.63,2988.0,2566.3,69,Android,Male,Samsung Galaxy S24,53
+119.4,3.5,1993.0,1364.4,16,Android,Female,Samsung Galaxy S24,56
+170.7,5.05,2235.0,2142.3,52,Android,Male,OnePlus 11,27
+230.3,5.23,2423.0,2171.1,88,iOS,Male,iPhone 15,42
+222.3,6.19,2429.0,2298.8,60,Android,Female,Google Pixel 8,35
+97.3,2.73,1731.0,1292.2,46,Android,Male,Xiaomi 13,36
+142.5,4.02,1734.0,1524.6,45,iOS,Male,iPhone 14,53
+15.0,1.55,1178.0,498.9,8,Android,Female,Google Pixel 8,27
+247.5,6.36,2469.0,2474.8,67,iOS,Female,iPhone 14,50
+420.0,10.19,3440.0,3934.0,130,Android,Female,Samsung Galaxy S23,22
+66.0,2.61,1443.0,966.8,8,Android,Female,Samsung Galaxy S23,64
+320.4,8.04,2977.0,3165.2,100,iOS,Female,iPhone 15,52
+420.0,10.04,3739.0,3871.2,96,iOS,Male,iPhone 15,61
+102.9,3.14,1373.0,1241.2,59,iOS,Male,iPhone 14,51
+170.0,4.79,2174.0,1820.1,75,iOS,Male,iPhone 15,50
+213.5,5.09,2258.0,2052.7,69,iOS,Female,iPhone 15,38
+259.3,6.95,2350.0,2625.1,79,Android,Female,Google Pixel 8,34
+194.2,5.35,2398.0,2101.1,53,Android,Male,Google Pixel 8,39
+113.3,3.48,1789.0,1544.9,26,iOS,Male,iPhone 14,65
+212.5,6.01,2574.0,2282.3,102,iOS,Female,iPhone 14,54
+93.7,2.96,1446.0,1097.0,30,iOS,Male,iPhone 15,32
+236.0,5.91,2717.0,2334.3,105,Android,Female,Samsung Galaxy S24,52
+119.0,3.35,1826.0,1350.6,36,Android,Male,Google Pixel 8,45
+71.9,2.54,1091.0,1050.7,50,iOS,Female,iPhone 14,24
+316.7,8.06,3040.0,3095.2,74,Android,Male,OnePlus 11,49
+85.1,2.37,1371.0,1109.0,53,iOS,Female,iPhone 14,28
+348.9,8.4,2818.0,3313.2,96,iOS,Female,iPhone 15,27
+278.1,6.62,3275.0,2775.1,81,Android,Female,Samsung Galaxy S24,26
+203.3,4.96,2411.0,1997.9,81,iOS,Female,iPhone 14,31
+262.1,5.79,2057.0,2438.3,74,iOS,Female,iPhone 14,30

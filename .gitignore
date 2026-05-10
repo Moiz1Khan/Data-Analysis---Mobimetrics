@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+ENV/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+npm-debug.log*
+*.local
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Env secrets (keep sample only if needed)
+.env
+.env.*
+!.env.example
