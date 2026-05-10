@@ -1,5 +1,6 @@
 """API for mobile usage analytics — serves one JSON bundle for the React SPA."""
 import json
+import os
 from pathlib import Path
 
 import numpy as np
@@ -216,9 +217,17 @@ def build_bundle() -> dict:
 
 
 app = FastAPI(title="Mobimetrics API", description="Analytics bundle for the Mobimetrics dashboard.")
+
+# Comma-separated origins, e.g. "https://myapp.vercel.app,http://localhost:5173"
+_cors_raw = os.getenv("ALLOWED_ORIGINS", "").strip()
+if _cors_raw:
+    _cors_origins = [o.strip() for o in _cors_raw.split(",") if o.strip()]
+else:
+    _cors_origins = ["http://127.0.0.1:5173", "http://localhost:5173"]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://127.0.0.1:5173", "http://localhost:5173"],
+    allow_origins=_cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
