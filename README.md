@@ -36,46 +36,39 @@ Open **http://127.0.0.1:5173** — start on the **Mobimetrics** home page; use *
 cd frontend && npm run build
 ```
 
-Serve `frontend/dist` with a static host and point `/api` at the FastAPI service (update CORS in `backend/main.py` if the origin changes).
+Serve `frontend/dist` with a static host and point the browser at your deployed API (see **`VITE_API_URL`** below).
 
-## Deploying the API on [Fly.io](https://fly.io)
+## Deploying the API on [Render](https://render.com)
 
-The repo includes a **`Dockerfile`** and **`fly.toml`** so the FastAPI app and root-level **`mobileusage.csv`** ship together.
+Use a **Web Service** connected to this GitHub repo.
 
-1. Install **`flyctl`** ([install guide](https://fly.io/docs/hands-on/install-flyctl/)) and run **`fly auth login`**.
-2. Open **`fly.toml`** and set **`app`** to a **globally unique** name on Fly (e.g. `mobimetrics-api-yourname`). If the name is taken, deployment will fail until you change it.
-3. From the **repository root** (where `Dockerfile` lives), run:
-
-   ```bash
-   fly launch
-   ```
-
-   Choose to use the existing **`Dockerfile`** when prompted. You can accept defaults or tweak region; **`internal_port`** must stay **8080** to match the container.
-
-4. Set CORS so your Vercel site can call the API:
+1. **Root Directory** — leave **empty** (repository root) so **`mobileusage.csv`** is next to **`backend/`** (the API resolves the CSV from the repo root).
+2. **Environment** — **Python 3** (or your preferred version).
+3. **Build command:**
 
    ```bash
-   fly secrets set ALLOWED_ORIGINS="https://YOUR-VERCEL-APP.vercel.app"
+   pip install -r backend/requirements.txt
    ```
 
-   Use a **comma-separated** list if you have production and preview URLs, e.g.  
-   `https://mobimetrics.vercel.app,https://mobimetrics-git-main-xxx.vercel.app`
-
-5. Deploy (or redeploy after secrets):
+4. **Start command:**
 
    ```bash
-   fly deploy
+   cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
    ```
 
-6. Your API base URL will look like **`https://<app-name>.fly.dev`**. Test **`https://<app-name>.fly.dev/api/health`** — expect `{"ok":true}`.
+   Render sets **`PORT`** automatically.
 
-See Fly’s [pricing](https://fly.io/docs/about/pricing/) and [autostop/autostart](https://fly.io/docs/launch/autostop-autostart/) if you use `min_machines_running = 0` (first request can be slower while a machine starts).
+5. **Environment variable** — add **`ALLOWED_ORIGINS`** with your front-end origin(s), comma-separated, e.g.  
+   `https://your-app.vercel.app`  
+   (add preview URLs too if you use them.)
 
-## Deploying on Vercel (front end)
+6. After deploy, open **`https://<your-service>.onrender.com/api/health`** — expect `{"ok":true}`.
 
-1. In [Vercel](https://vercel.com): **New Project** → import this GitHub repo → set **Root Directory** to **`frontend`**.
-2. **Environment variables**: **`VITE_API_URL`** = your Fly API origin **only**, **no** trailing slash, e.g. `https://mobimetrics-api-yourname.fly.dev`.
-3. Deploy. **`frontend/vercel.json`** routes all paths to **`index.html`** for React Router.
-4. Add that same Vercel URL (and any preview URLs you use) to Fly **`ALLOWED_ORIGINS`**, then run **`fly deploy`** again if needed.
+## Deploying the front end on [Vercel](https://vercel.com)
 
-Local dev: leave **`VITE_API_URL`** unset so the app uses **`/api`** and the Vite dev proxy.
+1. **New Project** → import this repo → set **Root Directory** to **`frontend`**.
+2. **Environment variables:** **`VITE_API_URL`** = your **Render** service URL **only**, **no** trailing slash, e.g. `https://mobimetrics-api.onrender.com`.
+3. Deploy. **`frontend/vercel.json`** sends all routes to **`index.html`** for React Router.
+4. Put your **Vercel** URL(s) into Render’s **`ALLOWED_ORIGINS`** and redeploy the API if the dashboard shows CORS errors.
+
+**Local dev:** leave **`VITE_API_URL`** unset so the app uses **`/api`** and the Vite dev proxy.
